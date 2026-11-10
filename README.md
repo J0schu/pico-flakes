@@ -8,6 +8,7 @@ Nix flake templates for Raspberry Pi Pico development.
 |------|----------|----------|
 | `c`   | C/C++ | cmake, gcc-arm-embedded, pico-sdk, picotool, openocd, minicom |
 | `python` | Python   | mpremote, picotool, minicom |
+| `rust` | Rust | rust-bin, rust-rust-analyzer, picotool,  probe-rs-tools, usbutils |
 
 ## Usage
 
