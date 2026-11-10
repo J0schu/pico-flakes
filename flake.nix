@@ -11,6 +11,10 @@
         path = ./python;
         description = "Raspberry Pi Pico Python dev shell";
       };
+      rust = {
+        path = ./rust;
+        description = "Raspberry Pi Pico Rust dev shell";
+      };
     };
   };
 }
